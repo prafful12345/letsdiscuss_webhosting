@@ -1,0 +1,349 @@
+
+
+/*--header------------------*/
+
+.heading1
+{
+    margin-top: -70px;
+
+}
+.main_heading {
+    font-family: var(--title);
+    font-weight: bold;
+    font-size: 3.5rem;
+    color: #000;
+
+}
+
+.main_heading__para {
+    font-size: 1.5rem;
+}
+
+.top-nav-bar
+{
+  height:30px;
+  top: 0;
+  position: sticky;
+  background:whitesmoke;
+  margin-bottom: 35px;
+  border-bottom: 4px solid orange;
+  z-index: 2;
+  margin-left: 10px;
+  margin-top: -80px;
+  margin-right: 10px;
+  
+
+}
+.logo
+{
+  height:60px;
+  width: 80px;
+  margin-top: 20px;
+  margin-left: 30px;
+  cursor: pointer;
+position:sticky;
+}
+.menu-bar
+{
+  width: 10%;
+  height: 20%;
+  float: right;
+  margin-top: -115px;
+}
+.menu-bar ul{
+  display: inline-flex;
+  float: right;
+  margin-top: .9px;
+}
+.menu-bar ul li
+{
+  border-left: 1px solid white;
+  list-style-type: none;
+  padding: 10px 30px;
+  text-align: center;
+  margin-top: -15px;
+  background-color: orange;
+  cursor: pointer;
+  opacity: .8;
+
+}
+.menu-bar ul li a
+{
+  font-size: 16px;
+  font-weight: bold;
+  color: blue;
+  text-decoration: none;
+}
+.menu-bar ul li a:hover
+{
+  color: white;
+}
+.top-nav-bar
+  {
+    height: 120px;
+    border-bottom: 0;
+  }
+  .menu-bar
+  {
+    width: 100%;
+  }
+  .heading1 h1{
+      color:black;
+      margin-top:-40px;
+      font-size: 45px;
+  }
+  .img1{
+      margin-top: 70px;
+  }
+/*------------header ends---------*/
+.smart img{
+    width:80%;
+    height:80%;
+    margin-left: 130px;
+}
+#h{
+    align-items: center;
+    text-align: center;
+}
+.headings{
+    margin-left: 50px;
+    margin-right: 40px;
+}
+
+/*------------main comment section--1------------*/
+htm1{
+    width:100%;
+    height:100%;
+}
+body{
+    width:100%;
+    height:100%;
+}
+
+.commentBox{
+    float:left;
+    
+      width: 100%;
+  margin: auto;
+  margin-top: 8px;
+  border: 1px solid #000;
+  background-color:#f0f0f0;
+  margin-bottom: 10px;
+}
+.leftPanelImg{
+    width:10%;
+    height:60px;
+    float:left; 
+}
+.leftPanelImg img{
+    border-radius:100%;
+}
+.rightPanel{
+    width:85%;
+    height:auto;
+    text-align: left;
+    float:left;
+    margin-left:1%;
+
+
+}
+.clear{
+    clear:both;
+}
+.form1{
+    padding: 10px;
+    border:1px solid #000;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 100%;
+   
+    
+
+}
+
+.form1 input[type="text"], .form1 textarea, .form1 input[type="date"]{
+    border:1px solid #000;
+    padding:2px;
+    width: 300px;
+}
+button
+{
+    color: #333;
+    background-color: transparent;
+}
+.comments{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+/*-------main comment section--1-- ends ------------*/
+
+/*------------main comment section--2------------*/
+html2{
+  width:100%;
+  height:100%;
+}
+body{
+  width:100%;
+  height:100%;
+}
+
+.commentBox{
+  float:left;
+  
+    width: 100%;
+margin: auto;
+margin-top: 8px;
+border: 1px solid #000;
+background-color:#f0f0f0;
+margin-bottom: 10px;
+}
+.leftPanelImg{
+  width:10%;
+  height:60px;
+  float:left; 
+}
+.leftPanelImg img{
+  border-radius:100%;
+}
+.rightPanel{
+  width:85%;
+  height:auto;
+  text-align: left;
+  float:left;
+  margin-left:1%;
+
+
+}
+.clear{
+  clear:both;
+}
+.form2{
+  padding: 10px;
+  border:1px solid #000;
+  margin-bottom: 10px;
+  text-align: center;
+  width: 100%;
+ 
+  
+
+}
+
+.form2 input[type="text"], .form2 textarea, .form2 input[type="date"]{
+  border:1px solid #000;
+  padding:2px;
+  width: 300px;
+}
+button
+{
+  color: #333;
+  background-color: transparent;
+}
+.comments{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+/*-------main comment section--2-- ends ------------*/
+
+/*------------main comment section--3------------*/
+html3{
+  width:100%;
+  height:100%;
+}
+body{
+  width:100%;
+  height:100%;
+}
+
+.commentBox{
+  float:left;
+  
+    width: 100%;
+margin: auto;
+margin-top: 8px;
+border: 1px solid #000;
+background-color:#f0f0f0;
+margin-bottom: 10px;
+}
+.leftPanelImg{
+  width:10%;
+  height:60px;
+  float:left; 
+}
+.leftPanelImg img{
+  border-radius:100%;
+}
+.rightPanel{
+  width:85%;
+  height:auto;
+  text-align: left;
+  float:left;
+  margin-left:1%;
+
+
+}
+.clear{
+  clear:both;
+}
+.form3{
+  padding: 10px;
+  border:1px solid #000;
+  margin-bottom: 10px;
+  text-align: center;
+  width: 100%;
+ 
+  
+
+}
+
+.form3 input[type="text"], .form3 textarea, .form3 input[type="date"]{
+  border:1px solid #000;
+  padding:2px;
+  width: 300px;
+}
+button
+{
+  color: #333;
+  background-color: transparent;
+}
+.comments{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+/*-------main comment section--3-- ends ------------*/
+
+
+/*-------------------------------------------Footer--------------------------------------------*/
+.footer
+{
+  margin-top: 50px;
+  background-color:#000;
+  color:#fff;
+  margin-left: 0px;
+}
+.footer h1
+{
+  font-size: 20px;
+  margin-top: 25px 0;
+}
+.footer
+{
+  font-size: 12px;
+}
+.footer img
+{
+    width:50%;
+  padding: 20px 0;
+  transition: 1s;
+  cursor: pointer;
+}
+#f img
+{
+    width:5%;
+  padding: 20px 0;
+  transition: 1s;
+  margin-bottom: 2px;
+}
+/*-------------------------------------------Footer ends--------------------------------------------*/
